@@ -2,7 +2,7 @@
     background:     #1E212700; // #1E2127FF this is the transparent background (WILL NOT CHANGE)
     background-alt: #282B31FF; // #282B31FF the background of the things that are not selected (MIGHT NOT CHANGE)
     foreground:     #FFFFFFFF; // #FFFFFFFF the text of the icon, app, and search (will have to be white or black for readablility)
-    selected:       #5F5A5Cff; // #61AFEFFF the bar that hovers over the application (WILL CHANGE BASED ON THE WALLPAPER)
+    selected:       #3E4539ff; // #61AFEFFF the bar that hovers over the application (WILL CHANGE BASED ON THE WALLPAPER)
     active:         #98C379FF; // #98C379FF (DO NOT CHANGE)
     urgent:         #E06C75FF; // #E06C75FF (DO NOT CHANGE)
 }
